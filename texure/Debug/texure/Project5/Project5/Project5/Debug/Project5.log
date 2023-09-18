@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\3thyearBFCAI\second term\computer graphics\Project5\Project5\Source.cpp(1463,20): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+E:\3thyearBFCAI\second term\computer graphics\Project5\Project5\Source.cpp(1517,22): warning C4805: '==': unsafe mix of type 'GLboolean' and type 'bool' in operation
+  Project5.vcxproj -> E:\3thyearBFCAI\second term\computer graphics\Project5\Debug\Project5.exe
